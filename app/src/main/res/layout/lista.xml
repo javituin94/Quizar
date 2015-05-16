@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFDAFF7F"
+    android:padding="8dp">
+    <LinearLayout android:id="@+id/Text"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dip">
+        <TextView
+            android:id="@+id/puntos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="#FF7F3300"
+            android:textSize="14sp"
+            android:gravity="center_vertical|center|center_horizontal"
+            android:textStyle="italic"
+            />
+
+    </LinearLayout>
+</RelativeLayout >

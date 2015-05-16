@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="notifications_new_message_ringtone">content://settings/system/notification_sound</string>
+<boolean name="notifications_new_message_vibrate" value="true" />
+<string name="example_text">User Default</string>
+<string name="pref_nivel">7</string>
+<string name="pref_usuario">Juanma</string>
+<boolean name="pref_sonido" value="true" />
+</map>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="pref_sonido"
+        android:title="Sonido"
+        android:summary="Activa o desactiva el audio"
+        android:defaultValue="true"/>
+
+
+    <ListPreference
+        android:dependency="pref_sonido"
+        android:key="pref_nivel"
+        android:title="Volumen"
+        android:summary="Establece el nivel de audio"
+        android:dialogTitle="Volumen"
+        android:entries="@array/pref_nivel_entradas"
+        android:entryValues="@array/pref_nivel_valores"
+        android:defaultValue="@string/pref_nivel_default"/>
+
+    <EditTextPreference
+        android:key="pref_usuario"
+        android:title="Usuario"
+        android:summary="User Default"
+        android:defaultValue="@string/usuario"
+        />
+
+</PreferenceScreen>

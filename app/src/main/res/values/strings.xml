@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="back">Volver</string>
+    <string name="stats">Resultados</string>
+    <string name="stat">Resultado</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_preguntas">Preguntas</string>
+    <string name="title_activity_resultado">Resultado</string>
+    <string name="title_activity_resultados">Resultados</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="usuario">User Default</string>
+</resources>

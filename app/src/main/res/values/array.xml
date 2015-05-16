@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_nivel_entradas">
+        <item name="uno">1</item>
+        <item name="dos">2</item>
+        <item name="tres">3</item>
+        <item name="cuatro">4</item>
+        <item name="cisco">5</item>
+        <item name="seis">6</item>
+        <item name="siete">7</item>
+        <item name="ocho">8</item>
+        <item name="nueve">9</item>
+        <item name="diez">10</item>
+        <item name="once">11</item>
+        <item name="doce">12</item>
+        <item name="trece">13</item>
+        <item name="catorce">14</item>
+        <item name="quince">15</item>
+    </string-array>
+
+    <string-array name="pref_nivel_valores">
+        <item name="uno">1</item>
+        <item name="dos">2</item>
+        <item name="tres">3</item>
+        <item name="cuatro">4</item>
+        <item name="cisco">5</item>
+        <item name="seis">6</item>
+        <item name="siete">7</item>
+        <item name="ocho">8</item>
+        <item name="nueve">9</item>
+        <item name="diez">10</item>
+        <item name="once">11</item>
+        <item name="doce">12</item>
+        <item name="trece">13</item>
+        <item name="catorce">14</item>
+        <item name="quince">15</item>
+    </string-array>
+
+    <string name="pref_nivel_default">
+        <item name="uno">1</item>
+        <item name="dos">2</item>
+        <item name="tres">3</item>
+        <item name="cuatro">4</item>
+        <item name="cisco">5</item>
+        <item name="seis">6</item>
+        <item name="siete">7</item>
+        <item name="ocho">8</item>
+        <item name="nueve">9</item>
+        <item name="diez">10</item>
+        <item name="once">11</item>
+        <item name="doce">12</item>
+        <item name="trece">13</item>
+        <item name="catorce">14</item>
+        <item name="quince">15</item>
+    </string>
+</resources>
